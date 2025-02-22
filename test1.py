@@ -3,5 +3,4 @@ def Print():
   print("Hello, LFS! very excited to use you...")
   return
 
-for i in range(200):
-  Print()
+Print()
